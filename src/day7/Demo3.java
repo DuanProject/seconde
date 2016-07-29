@@ -25,6 +25,7 @@ import org.xml.sax.DocumentHandler;
 public class Demo3 {
 	@Test
 	public void test() throws IOException {
+		system.out.println("Sb");
 		// 一、创建一个文档
 		Document doc = DocumentHelper.createDocument();
 		// 增加一个标签
