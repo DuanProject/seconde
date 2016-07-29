@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contactList>
+	<contact id="001">
+		<name>张zhangsan</name>
+		<age>20</age>
+	</contact>
+	<contact id="002">
+		<name>lisi</name>
+		<age>22</age>
+	</contact>
+</contactList>
